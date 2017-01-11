@@ -39,5 +39,6 @@ public class MainActivity extends AppCompatActivity {
         Log.d(TAG, "channel = " + metaData);
 
         Log.d(TAG, "debug = " + BuildConfig.DEBUG);
-
+    }
+    
 }
