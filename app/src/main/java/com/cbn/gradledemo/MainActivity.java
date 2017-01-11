@@ -37,5 +37,7 @@ public class MainActivity extends AppCompatActivity {
             e.printStackTrace();
         }
         Log.d(TAG, "channel = " + metaData);
-    }
+
+        Log.d(TAG, "debug = " + BuildConfig.DEBUG);
+
 }

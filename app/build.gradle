@@ -25,14 +25,14 @@ android {
     }
 
     productFlavors {
-//        online {
-//        }
+        online {
+        }
 //
 //        offline {
 //        }
 //
-//        ykt {
-//        }
+        ykt {
+        }
     }
 
     productFlavors.all {
